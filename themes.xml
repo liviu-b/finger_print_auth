@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.FingerPrint_auth" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#82DBD8</item>
+        <item name="colorPrimaryDark">#1B857C</item>
+        <item name="colorAccent">#EE81B3</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
